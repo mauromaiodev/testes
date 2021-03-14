@@ -1,1 +1,1 @@
-# testes
+# Testes voltados para utilização de frameworks.
